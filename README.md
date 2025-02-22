@@ -27,5 +27,5 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor, abre un issu
 ## Licencia
 Este proyecto está bajo la licencia MIT.
 
-[Repositorio en GitHub](https://github.com/tuusuario/JabonesScarlatti)
+[Repositorio en GitHub](https://github.com/Cesarius12/JabonesScarlatti)
 
