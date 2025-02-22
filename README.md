@@ -1,5 +1,7 @@
 # JabonesScarlatti - Gestor de Compras
 
+![CI Status](https://github.com/Cesarius12/JabonesScarlatti/actions/workflows/ci.yml/badge.svg)
+
 ## Descripción
 JabonesScarlatti es una aplicación diseñada para gestionar la compra de jabones de manera eficiente. Los clientes pueden realizar un pedido mensual con un máximo de dos jabones, garantizando un control adecuado del inventario y la disponibilidad de productos. La aplicación coteja cada compra con la base de datos y notifica automáticamente al cliente con un correo electrónico y un PDF con los detalles de su compra.
 
