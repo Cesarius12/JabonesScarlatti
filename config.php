@@ -13,7 +13,6 @@ function conectar()
         echo 'Error: ' . $e->getMessage();
     }
 }
-
 function obtenerUsers()
 {
     $conexion = conectar();
@@ -25,7 +24,6 @@ function obtenerUsers()
 
     return $false;
 }
-
 function obtenerProductos()
 {
     $con = conectar();
